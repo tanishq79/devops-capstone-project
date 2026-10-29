@@ -16,3 +16,4 @@ talisman = Talisman(app)
 CORS(app)
 
 from service import routes, models
+

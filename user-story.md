@@ -10,3 +10,4 @@ Given [some context]
 When [an event occurs]
 Then [an outcome is achieved]
 ```
+
